@@ -21,9 +21,9 @@
 ⚠️ breaking anonymized flows 
 ⛓️ Code is public. Behavior isn't.
 ```
-
-<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Skills+and+Tools">
+</p>
 
   <!-- Skills and Tools-->
 <table align="center">
@@ -31,9 +31,6 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
-      <h3  align="center">
-Skills and Tools
-</h3>
         <td>
           <img src="https://github.com/user-attachments/assets/aebf9b05-7bee-436a-b216-e2ec5366c711" width="50" alt="Chainalysis Logo" />
           <img src="https://github.com/user-attachments/assets/82eb0d35-dabb-49cd-ada9-23f27352cf5c" width="150" alt="TRM Labs Logo" />
