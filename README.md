@@ -66,3 +66,9 @@ Skills and Tools
 </table>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/4f660c7b-af9f-4646-9392-42ddeacdc537" width="1000" alt="matrix-rain-gif"/> </p>
+
+<!-----projects------>
+## Guides:
+
+### [Blockcain|OSINT Investigation Resources](https://github.com/CipherLeech/Blockchain-OSINT-Investigation-Resources)
+
