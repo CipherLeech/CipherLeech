@@ -11,15 +11,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Blockchain+Investigator">
 </p>
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/f133dfd6-f869-4804-a500-0cec6836dc3b" width="700" alt="Eye"/> </p>
 
   <!-- Description -->
 ```diff
-🛠️ 3+ years of professional experience
-+  ✔️ Responsible worker.
-#  👨‍💻 Information Technology Engineer (ITI).
--  🚀 Optimizing web pages.
-!  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
+👁️ Blockchain doesn’t forget. Neither do I.
+🕷️ Dark wallet crawling
+🧠 OSINT recon 
+⚠️ breaking anonymized flows 
+⛓️ Code is public. Behavior isn't.
 ```
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
